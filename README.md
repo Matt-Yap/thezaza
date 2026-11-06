@@ -12,19 +12,18 @@ Basically the third person chaarcter interacts with the fruit
 <!-- Attach your UML diagram here -->
 ---
 # Singleton Pattern
----
+Fruit Collected
 ### Purpose
-<!-- Explain why the Singleton pattern is appropriate for this particular system.
--->
+To collect fruit and amount of points
 ### Implementation
-<!--Describe how the Singleton pattern is implemented in your project. -->
----
+used widgets for showing points
+
 # Factory Pattern
 ---
 ### Purpose
-<!-- Explain why the Factory pattern is appropriate for this particular system. -->
+spawn fruit
 ### Implementation
-<!-- Describe how the Factory pattern is implemented in your project. -->
+used game manager
 ---
 # References
 ---
